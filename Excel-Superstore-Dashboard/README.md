@@ -36,3 +36,7 @@ Interactive sales dashboard built on 9,994 rows of US retail data.
 
 \- 3 KPI metrics (Total Sales, Total Profit, Total Orders)
 
+
+
+!\[Dashboard Preview](./Dashboard\_Preview.png)
+
