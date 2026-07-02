@@ -14,7 +14,7 @@ Interactive dashboard analyzing 9,994 retail orders using Pivot Tables and Slice
 End-to-end SQL analysis of Superstore dataset covering sales performance, customer behavior and profitability across 27+ business questions.
 - Tools: MySQL 8.0, MySQL Workbench
 - Skills: JOINs, Subqueries, CTEs, Window Functions, CASE statements
-- [View Project](./Retail-Sales-Analysis/)
+- [View Project](./Retail Sales Analysis/)
 
 ## Skills
 - Excel — Pivot Tables, VLOOKUP, Conditional Formatting, Dashboards
